@@ -10,4 +10,5 @@ Examine the resulted lists and maybe integrate or change some minor aspects. Voi
 
 
 The current column- format of the input .csv is the following:
+(note: the SongX columns are for the second code cell, where the most voted songs to play is determined out of the user input in those fields)
 "id","firstName","[SOME COLUMNS WITH ORGANIZATIONAL DATA]","interest","interestDetail","teachWorkshop","workshopTitle","workshopDescription","workchosendays","workshopNeeds","playConcert","bandName","audienceType","playDuration","performanceDays","responsiblePerson","volunteerShift","jobType","availableDays","song1","song2","song3","song4","song5","song6","song7","song8","song9","song10","accommodation"
